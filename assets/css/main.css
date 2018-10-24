@@ -1,0 +1,19 @@
+body {
+    background-color: brown;
+}
+
+.header {
+    text-align: center;
+}
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 1000%;
+}
+.about {
+    text-align: center;
+    text-decoration: underline;
+}
